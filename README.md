@@ -4,7 +4,7 @@ NYU Tandon LeetCode Bootcamp Fall 2025
 
 ## Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=5% height=5% alt="Waving hand">
 
-Welcome to the NYU Tandon LeetCode Bootcamp Fall 2025 GitHub repository! This boot camp will help you enhance your problem-solving and coding skills by tackling challenges on LeetCode. You can find the current syllabus [here](https://docs.google.com/document/d/1anDvbiGk6KLCqyC3WFXz7irKQYX1TP4Uk-HqPYyPAVw/edit?usp=sharing). 
+Welcome to the NYU Tandon LeetCode Bootcamp Fall 2025 GitHub repository! This boot camp will help you enhance your problem-solving and coding skills by tackling challenges on LeetCode. You can find the current syllabus [here](https://docs.google.com/document/u/1/d/18p3GwYn2aHC09SRuZvoEkLwJBTR46IJmAk_DY--FaDI/edit?tab=t.0&urp=gmail_link#heading=h.v2426a1xgwhc). 
 
 ## What's Inside
 
