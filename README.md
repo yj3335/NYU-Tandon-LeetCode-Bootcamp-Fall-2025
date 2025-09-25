@@ -14,11 +14,11 @@ Welcome to the NYU Tandon LeetCode Bootcamp Fall 2025 GitHub repository! This bo
 
 ## Lecture Recordings
 
-Did you miss a session or need to revisit a topic? All our Zoom lectures are recorded and available for you to watch anytime. Access the recordings [here](https://docs.google.com/document/d/1yWuEd1b3MDFLlBocrzM7Ws4-tvYbx_FRzmcJmLzVxPs/edit?usp=sharing). 
+Did you miss a session or need to revisit a topic? All our Zoom lectures are recorded and available for you to watch anytime. Access the recordings [here](https://docs.google.com/document/d/1mILG70B3gFs3nppF_UOAJtKeytdybiwmGResf_AZp_M/edit?tab=t.0). 
 
 ## Booking 1:1 Review Times
 
-Do you need personalized feedback or have specific questions? Book a 1:1 session via [Calendly](https://calendly.com/ka3535-nyu/leetcode-technical-interview-coaching-mock-interview)
+Do you need personalized feedback or have specific questions? Book a 1:1 session via [Google Calendar](https://calendar.app.google/FK96gcVeQNTgSV4e6)
 
 ## Additional Resources & Tech Guides
 
