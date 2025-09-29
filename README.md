@@ -44,3 +44,11 @@ Here's a list of resources and tech guides to supplement your learning and provi
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeSignal](https://codesignal.com)
 - [Interview Warmup](https://grow.google/certificates/interview-warmup/)
+
+
+
+## 👨‍🏫 Instructor
+**Kumuda Aggarwal**\
+Graduate Student, NYU  
+
+- [LinkedIn](https://www.linkedin.com/in/kumuda-aggarwal/)  
